@@ -8,3 +8,7 @@ if word == reversed_word:
     print("Yes, it's a palindrome!")
 else:
     print("No, it's not a palindrome.")
+
+print(4*5**2)
+x="hey!"
+print(x*2)
