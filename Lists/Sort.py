@@ -1,9 +1,12 @@
 Value=[12,23,43,323,4,9,0,23]
 
-Value.sort()
+#Value.sort()
 
-Value.reverse()
+#Value.reverse()
 
 print(Value)
 
+print(Value)
+
+Value.insert(1,8)
 print(Value)
